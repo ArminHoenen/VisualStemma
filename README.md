@@ -1,1 +1,1 @@
-This contains the scripts to obtain a distance matrix (from which NJ and other algorithms can compute a stemma) purely through visual processing of manuscript images.
+This contains the scripts to obtain a distance matrix (from which NJ and other algorithms can compute a stemma) purely through visual processing of manuscript images. See [Hoenen 2026](https://arxiv.org/abs/2604.11724).
